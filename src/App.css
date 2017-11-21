@@ -26,3 +26,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+/*------------------------------------------------------------------------*/
+html {
+  font-size: 14px;
+}
+.root-wrapper {
+  margin: 5em 1em 1em 1em;
+}

@@ -106,7 +106,7 @@ class AboutBlock extends React.Component {
 class LvlUpApp extends Component {
   render() {
     return (
-      <div>
+      <div className="root-wrapper">
         <Header />
         <MainProgressBar />
         <GetExperienceContentBlock />
